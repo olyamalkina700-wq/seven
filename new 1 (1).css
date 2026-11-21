@@ -19,8 +19,9 @@ body {
   width: calc(100% - 40px) !important;
   max-width: none !important;
   height: 450px !important;
-  object-fit: contain;
+  object-fit: cover;
   margin: 0 0 0 40px !important;
+  object-position: center bottom;
 }
 
 ol {
