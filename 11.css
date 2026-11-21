@@ -128,3 +128,8 @@ li:active {
   border-top-right-radius: 7px;
 
 }
+#audio img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
