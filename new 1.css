@@ -60,9 +60,6 @@ li:active {
   border-color: #000;
   border-bottom-color: #2a2a2a;
 }
-.black-key:hover {
-  color: #FFF000;
-}
 .black-key:active {
   border-bottom-width: 8px;
   box-shadow: none;
